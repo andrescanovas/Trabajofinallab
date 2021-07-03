@@ -21,6 +21,7 @@
 .searchInput {
   font-size: 1.2rem;
   height: 30px;
+  width: 600px;
   border-radius: 10px;
   padding: 5px 30px 5px 10px;
   border: 1px solid #1a1b1d;
